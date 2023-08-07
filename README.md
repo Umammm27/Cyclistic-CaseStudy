@@ -11,7 +11,22 @@ How do annual members and casual riders use Cyclistic bikes differently ?
 # Data Visualization & Analysis Results
 Data visualization has been done using **Tableau Dashboard**
 ## Total User
+![chart](viz/Total.png)
+## Total User by Season
+![chart1](viz/Season.png)
+## Total User by Month
+![chart2](viz/month.png)
+## Total User by Day
+![chart3](viz/Day.png)
+## Summary & Recommendation
+* Total **Member** user is bigger than **Casual** user
+* **Casual** user rent a bike for holiday and tourism purpose, **Member** user rent bike for commuting regularly purpose
+* Doing proper advertising at stations that are visited by many casual users may increase the change from casual users to members
+* To increase profits, companies can increase prices for **Casual** users for unit rentals on weekends
+* Providing many benefits and discounts on winter and weekdays can attract and increase user rental rates, especially for the **Casual user**
 # Data Source
 Google Data Analytics Certificated Course Program
+
+For more Data Visualization, please refer to my [Tableau Account](https://public.tableau.com/app/profile/khotibul.umam8068/viz/Cyclistic_16901995932400/Member)
 
 ***Status : Completed Project***
