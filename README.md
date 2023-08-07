@@ -11,7 +11,6 @@ How do annual members and casual riders use Cyclistic bikes differently ?
 # Data Visualization & Analysis Results
 Data visualization has been done using **Tableau Dashboard**
 ## Total User
-
 # Data Source
 Google Data Analytics Certificated Course Program
 
