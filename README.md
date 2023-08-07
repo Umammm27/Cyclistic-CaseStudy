@@ -21,7 +21,7 @@ Data visualization has been done using **Tableau Dashboard**
 ## Summary & Recommendation
 * Total **Member** user is bigger than **Casual** user
 * **Casual** user rent a bike for holiday and tourism purpose, **Member** user rent bike for commuting regularly purpose
-* Doing proper advertising at stations that are visited by many casual users may increase the change from casual users to members
+* Doing proper advertising at stations that are visited by many **Casual** users may increase the change from **Casual** users to **Members**
 * To increase profits, companies can increase prices for **Casual** users for unit rentals on weekends
 * Providing many benefits and discounts on winter and weekdays can attract and increase user rental rates, especially for the **Casual user**
 # Data Source
