@@ -37,4 +37,6 @@ Google Data Analytics Certificated Course Program
 
 For more Data Visualization, please refer to my [Tableau Account](https://public.tableau.com/app/profile/khotibul.umam8068/viz/Cyclistic_16901995932400/Member)
 
+Note : ***Due to the rules of the data owner, the data is not publicly available***
+
 ***Status : Completed Project***
