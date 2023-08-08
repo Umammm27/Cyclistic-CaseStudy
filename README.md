@@ -12,12 +12,20 @@ How do annual members and casual riders use Cyclistic bikes differently ?
 Data visualization has been done using **Tableau Dashboard**
 ## Total User
 ![chart](viz/Total.png)
+### Insight
+* Total User 5.1 M, with **Member** user is 3.3 M and **Casual** user is 2.3M
 ## Total User by Season
 ![chart1](viz/Season.png)
+* The season with the most visitors for both users is Summer
+* For **Member** users, the division of seasons is more even when compared to **Casual** users where visitors in winter are far apart from other seasons
 ## Total User by Month
 ![chart2](viz/month.png)
+* For **Casual** user the most visitors are in July
+* For **Member** user the most visitors are in August
 ## Total User by Day
 ![chart3](viz/Day.png)
+* For **Casual** user the most visitors are in Saturday, This shows that **Casual** users use bicycle rental for holidays and visits to tourist attractions
+* For **Member** user the most visitors are in Thursday, This shows that **Member** users use bicycle rental for commuting
 ## Summary & Recommendation
 * Total **Member** user is bigger than **Casual** user
 * **Casual** user rent a bike for holiday and tourism purpose, **Member** user rent bike for commuting regularly purpose
